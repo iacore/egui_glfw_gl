@@ -2,7 +2,7 @@ use egui_glfw_gl as egui_backend;
 
 use std::time::Instant;
 
-use egui_backend::egui::{vec2, Color32, Image, Pos2, Rect};
+use egui_backend::egui::{vec2, Image, Pos2, Rect};
 use egui_glfw_gl::glfw::Context;
 
 const SCREEN_WIDTH: u32 = 800;
